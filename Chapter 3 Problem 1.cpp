@@ -32,8 +32,8 @@ int main()
 
  // The calculats for the desired to original cookies
     float factor = (float)desired_cookies / Batch_of_cookies;
-    cout << "So you want to make " << (float)desired_cookies << " of cookies?\n";
-    cout << "If not please close the program and retry.\n";
+    //cout << "So you want to make " << (float)desired_cookies << " of cookies?\n";
+   // cout << "If not please close the program and retry.\n";
     printf("Ok,thank you I will get those numbers for you <3.\n");
    
  // The calculats for the new ingredient amounts
